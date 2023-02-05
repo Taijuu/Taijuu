@@ -1,4 +1,4 @@
-## Oi eu sou Gabriel Xavier, desenvolvedor front-end 
+## Hi i'm Gabriel Xavier, front-end dev 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taijuu&show_icons=true&theme=dark)</br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
