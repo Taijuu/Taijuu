@@ -1,5 +1,5 @@
 ## Hi i'm Gabriel Xavier, front-end dev 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taijuu&show_icons=true&theme=dracula)</br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taijuu&show_icons=true&bg_color=00000000)</br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gab-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
