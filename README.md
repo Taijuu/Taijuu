@@ -1,4 +1,4 @@
-## Hi i'm Gabriel Xavier, front-end dev 
+## Hi i'm Gabriel, front-end dev 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taijuu&show_icons=true&bg_color=00000000)</br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
